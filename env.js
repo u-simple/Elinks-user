@@ -4,7 +4,7 @@ window.settings = {
   // 站点名称
   title: 'Elinks',
   // 站点描述
-  description: '最安全的VPN提供商',
+  description: '隐私至关重要，让您轻松连接全球数据中心',
   assets_path: '/assets',
   // 主题色
   theme: {
