@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'https://admin.elinksapp.com/'
+window.routerBase = 'https://www.elinksapi.com/'
 window.settings = {
   // 站点名称
   title: 'Elinks',
