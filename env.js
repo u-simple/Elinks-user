@@ -15,5 +15,5 @@ window.settings = {
   // 登陆背景
   background_url: '',
   // 站点LOGO
-  logo: 'https://elinksapp.elinksapp.com/elinks_logo_transparent.png',
+  logo: 'https://pub-ffa64d2f96c84c02bc4406fe5aa0e786.r2.dev/elinks_logo_transparent.png',
 }
