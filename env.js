@@ -17,3 +17,4 @@ window.settings = {
   // 站点LOGO
   logo: 'https://pub-ffa64d2f96c84c02bc4406fe5aa0e786.r2.dev/elinks_logo_website_100x100.png',
 }
+<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="f6987d52-12c3-4e92-bfce-ec61e6a628c7";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
